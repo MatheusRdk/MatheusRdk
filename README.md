@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I'm Matheus, a passionate Java enthusiast and aspiring software developer 💻💾
 
 
 
